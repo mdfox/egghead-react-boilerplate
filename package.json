@@ -1,0 +1,11 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.1.0",
+  "description": "Learning react with egghead.io react boilerplate tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew D Fox",
+  "license": "ISC"
+}
